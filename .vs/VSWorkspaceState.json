@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\config",
+    "\\public",
+    "\\src",
+    "\\src\\Controller",
+    "\\templates"
+  ],
+  "SelectedNode": "\\config\\bundles.php",
+  "PreviewInSolutionExplorer": false
+}
